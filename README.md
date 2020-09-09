@@ -1,7 +1,7 @@
 # critter_doodlebug_simulation
 C++ Project: 2D Predator-prey Simulation
 
-##Overview
+## Overview
 This project creates a simple 2D predator-prey simulation. In this simulation the prey are critters and the predators are doodlebugs. 
 
 Basic movement of critter represented by 'O':
