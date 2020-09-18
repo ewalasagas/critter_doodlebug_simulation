@@ -10,6 +10,7 @@ Only one critter may occupy a cell at a time and moves randomly - if a cell is o
 Basic movement of doodlebug represented by 'x':
 Only one doddlebug may occuy a cell at a time and moves randomly - if a cell is occupied by a critter, the critter is eaten and doodlebug occupies the sapce.  A doodlebug will breed if it survivies 8 steps.  If a doodlebug has not eaten within 3 steps, the doodlebug dies.
 
+## How to run
 To run on compiler:
 1. Type "make"
 2. Type "./project"
